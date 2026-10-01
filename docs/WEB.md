@@ -4,6 +4,8 @@
 
 Este documento cubre solamente la web. Para correo y reenvíos, consultar [CORREO.md](CORREO.md).
 
+> **Versión 3 independiente:** este repositorio contiene una propuesta visual separada. No está conectado a Vercel ni Netlify y no reemplaza la fuente de verdad de producción, que continúa en `lbarrosoficina/Congelados-Romasil`. No vincular esta copia con los proyectos de alojamiento existentes.
+
 ## Arquitectura actual
 
 ```text
